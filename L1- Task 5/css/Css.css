@@ -1,0 +1,24 @@
+#id1{
+    font-size: xx-large;
+    font-weight: 100px;
+    text-align: center;
+}
+
+.cl1{
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+
+}
+.cl2{
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: underline solid black;
+}
+
+#id2{
+    font-size: large;
+    font-weight: 100px;
+    text-align: center;
+}
